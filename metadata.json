@@ -1,0 +1,6 @@
+{
+  "name": "FlashAI - Smart Flashcard Maker",
+  "description": "AI-powered flashcard maker and practice app with smart OCR note scanning, automatic question-answer generation, and offline local storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
